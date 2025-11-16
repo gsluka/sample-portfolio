@@ -8,3 +8,4 @@
     This is my personal music portfolio, where I plan on sharing my: performances, favorite bands, and my ever-expanding music gear collection.
 3.  Not bad so far. I'd like to make one more change tonight. I want to replace the "Gallery" section with one called "My Gear". I have to files saved in the images folder that I'd like posted in that "My Gear" section. These two files are just tests; I plan on having maybe 5-10 total pictures for this section eventually
 4.  Ok one final task for tonight. I created a new blank file for you at the root of the repo named 'prompts_used.md'. I'd like you to keep track of all of the prompts that I asked you so far during this project. They should be written using full markdown syntax.
+5.  One more change for tonight. Those two pictures under the 'my gear' section are not in a viewable ratio. Here is the metadata for the images: 12.2MP, 3024 × 4032, Ultra HDR
