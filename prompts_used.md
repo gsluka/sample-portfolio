@@ -19,9 +19,5 @@ I want to replace "Studio Sessions" with "Having Fun". Then replace "An inside l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/izp65JuVZ1U?si=M9kveXRL2AjpNh0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-Once that is done, append this prompt to my "prompts_used.md" file. Please don't delete anything currently in there, just add it to the end.
-Current File Path:
-```html
-c:\Users\gsluk\Documents\sample-portfolio\index.html
-```
+7. Please center justify the text in the Blog > Having Fun section
+8. Please rename the "About" tab to "About Me"
